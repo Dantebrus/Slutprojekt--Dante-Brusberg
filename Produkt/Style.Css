@@ -1,0 +1,25 @@
+body 
+{
+    background-color: #f7f3ef;
+    color: #333333;
+}
+header
+{
+
+    height:  75px;
+    background-color: #a3c1ad;
+    width: 100%;
+}
+
+.search-section
+{
+text-align: center;
+margin: 2px 0px;
+}
+
+.search-section input[type="text"]
+{
+    width: 75%;
+    padding: 5px;
+    border: 2px solid black;
+}
