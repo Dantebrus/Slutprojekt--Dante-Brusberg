@@ -4,3 +4,30 @@ Slut projekt webbutveckling logg
 Dag 1. 
 Jag skrev lite i projekt mallen och startade med en wireframe som jag nästan är klar med.
 Jag bestämde mig för att göra en sida med information om parfym
+
+Dag2.
+Jag gjorde en powerpoint om hur sidan skulle se ut ungefär och startad sen koda.
+hade inte så mycket tid så jag gjorde bara lite bakgrund, gjorde en lista där parfymer skulle vara 
+och så tog jag samma footer som i Stugsajten och bytte lite till engelska
+
+Dag3. 
+Jag la till lite extra i koden, som en sökbar (funkar inte än).
+Jag gjorde 2 till sidor där jag skulle ha alla populära parfymer och en med nya parfymer (har inte fixat något i nya parfymer sidan än).
+
+Dag 4.
+Jag fixade också lite i Css så de skulle se lite bättre ut.
+Jag skaffade en nav, och i den fixade jag en dropdown, och kollade runt i w3schools för att se hur man kunde göra den bättre.
+Då såg jag att man kan använda :hover, då använda jag de så att allt såg bättre ut.
+
+Dag 5.
+Jag la till bilder på parfymerna och gjorde så att de såg bra ut i CSS med :hover och annat.
+Jag fixade en bild me ai som är min logga, så när man klickar på den så kommer man till startsidan.
+
+Dag 6. 
+Jag fixade också en stor bild som är under nav för jag har sett att många sidor har sådanna och jag tycker de såg bra ut.
+Jag la till en sida så när man klickar in på en parfym så får man information om den men har inte gjort något med sidan så jag gör det nästa gång.
+
+Dag 7. 
+Idag gjorde jag klart info sidan och det gick snabbt.
+försökte fixa så att sidan funkar i mobil som jag inte är så bra på,
+vissa saker funkade som de skulle men bilderna på parfymerna och min nav blir lite konstiga
